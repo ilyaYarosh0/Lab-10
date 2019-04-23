@@ -5,7 +5,7 @@ int main(int argc, char *argv[]) {
 	int a,b,d,i;
 	float M[20][20];
 	float c , x[10] , sum;
-	printf("\n Enter chislo");
+	printf("\n eeEnter chislo");
 	scanf("%d", &a);
 	printf("\n Enter arguments");
 	for(i=1;i<=a;i++){
